@@ -1,2 +1,1 @@
-# user-registration-form
-registration form created from react 
+# React Router Project Starter
